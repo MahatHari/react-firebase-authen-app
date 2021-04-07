@@ -1,7 +1,7 @@
 import React from 'react';
 
-function Landing() {
+function SignIn() {
   return <div></div>;
 }
 
-export default Landing;
+export default SignIn;
